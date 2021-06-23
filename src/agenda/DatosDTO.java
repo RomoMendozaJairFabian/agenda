@@ -7,7 +7,7 @@ package agenda;
 
 /**
  *
- * @author danyg
+ * @author PC
  */
 public class DatosDTO {
     String nombre, edad, sexo;
